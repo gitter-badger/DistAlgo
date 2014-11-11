@@ -1,4 +1,5 @@
 # DistAlgo
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mayli/DistAlgo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
   DistAlgo is a very high-level language for programming distributed
   algorithms. This project implements a DistAlgo compiler with Python as the
